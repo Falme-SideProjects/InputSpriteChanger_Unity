@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e86725a6e97bdd4eb5c74ee68a4659b, type: 3}
+  m_Name: InputSpriteList_PS
+  m_EditorClassIdentifier: 
+  inputButtonSprites:
+  - typeInput: 15
+    sprite: {fileID: 21300000, guid: 73baabfa8a52ea34782cc194363eb395, type: 3}
+  - typeInput: 17
+    sprite: {fileID: 21300000, guid: 11fd10340119bd441a466fcbd77fc9ec, type: 3}
+  - typeInput: 16
+    sprite: {fileID: 21300000, guid: 0b0df92bc7953d44da55b136ec2b1036, type: 3}
+  - typeInput: 14
+    sprite: {fileID: 21300000, guid: 867dd1cd78598b24d83127320060d6ef, type: 3}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e86725a6e97bdd4eb5c74ee68a4659b, type: 3}
+  m_Name: InputSpriteList_XBO
+  m_EditorClassIdentifier: 
+  inputButtonSprites:
+  - typeInput: 15
+    sprite: {fileID: 21300000, guid: 809ed112a63633e48b150f31ac953ade, type: 3}
+  - typeInput: 17
+    sprite: {fileID: 21300000, guid: 43bac6203a4f1cf49861c7f8e0be9e0f, type: 3}
+  - typeInput: 16
+    sprite: {fileID: 21300000, guid: 2817e0904a6bde54c8b31c4326d2d147, type: 3}
+  - typeInput: 14
+    sprite: {fileID: 21300000, guid: 64cdbe353e61c17459eb33bcf8d1aad3, type: 3}
